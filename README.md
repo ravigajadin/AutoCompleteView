@@ -5,7 +5,7 @@ Thanks Dottor Pagliaccius!
 Original Code: https://github.com/DottorPagliaccius/Xamarin-Custom-Controls
 
 Made following changes:
-- Merged AutoCompleteView and ReepeaterView both into one file
+- Merged AutoCompleteView and RepeaterView both into one file
 - Add property SearchTextChangedCommand
 - Add property SelectedItemCommand
 - Add property SearchEntryFocus
